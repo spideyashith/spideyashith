@@ -43,8 +43,6 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 ## 🚀 Featured Projects
 
 - 📱 [**Study Buddy App**](https://github.com/spideyashith/Study-Buddy-App) — Firebase-powered Android app for students
-- 🎮 [**Quiz Earn App**](https://github.com/spideyashith/quiz-earn-android) — Reward-based quiz app with Firestore & ads
-- 💡 [**Sound & Light Booking Website**](https://github.com/spideyashith/sound-light-booking-website) — Event service booking site
 
 ---
 
@@ -70,10 +68,19 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 [![Ashith's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spideyashith&theme=github-compact)](https://github.com/spideyashith)
 
 ---
+---
 
-## 👁️ Visitor Counter
+## 💬 Final Thought
 
-![Visitors](https://komarev.com/ghpvc/?username=spideyashith&style=flat-square&color=blue)
+> “Code is the closest thing we have to a superpower. Every line you write has the potential to change lives.”  
+> Keep learning, keep building — and always stay curious. 🚀
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer&text=🚀%20Thank%20You%20for%20Visiting!%20👋&fontSize=24&fontAlign=middle&animation=twinkling" />
+</p>
+
 
 ---
 
