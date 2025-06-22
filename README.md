@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=150&section=header&text=Hi%20👋,%20I'm%20Ashith%20Fernandes&fontSize=30&fontColor=ffffff&desc=Android%20%7C%20Firebase%20%7C%20LLMs%20%7C%20Web%20%7C%20AI&descSize=20&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=00f7ff&height=140&section=header&text=Hi%20👋,%20I'm%20Ashith%20Fernandes&fontSize=30&fontColor=000000&desc=Android%20%7C%20Firebase%20%7C%20LLMs%20%7C%20Web%20%7C%20AI&descSize=20&descAlign=50&descAlignY=60" />
 </p>
+
 
 <!-- ✍️ Typing Animation – Visible in Light & Dark Mode -->
 <p align="center">
