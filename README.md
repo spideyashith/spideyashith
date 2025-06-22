@@ -28,17 +28,48 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 - ✨ Fun Fact: I turn ☕ into code and ideas into apps 💡📱
 
 ---
+<h2>🛠 My Tech Stack</h2>
 
-## 🛠 Tech Stack
+<style>
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .tech-item {
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  .tech-item:hover {
+    transform: scale(1.1);
+  }
+  .tech-icon {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 5px;
+  }
+</style>
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28.svg?style=flat&logo=firebase&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+<div class="tech-grid">
+  <div class="tech-item" title="Java"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><div>Java</div></div>
+  <div class="tech-item" title="Kotlin"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /><div>Kotlin</div></div>
+  <div class="tech-item" title="Python"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><div>Python</div></div>
+  <div class="tech-item" title="Dart"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /><div>Dart</div></div>
+  <div class="tech-item" title="C#"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><div>C#</div></div>
+  <div class="tech-item" title="JavaScript"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><div>JavaScript</div></div>
+  <div class="tech-item" title="HTML5"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><div>HTML</div></div>
+  <div class="tech-item" title="CSS3"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><div>CSS</div></div>
+  <div class="tech-item" title="SQL"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><div>SQL</div></div>
+  <div class="tech-item" title="R Programming"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><div>R</div></div>
+  <div class="tech-item" title="Firebase"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /><div>Firebase</div></div>
+  <div class="tech-item" title="Flutter"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /><div>Flutter</div></div>
+  <div class="tech-item" title="Node.js"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><div>Node.js</div></div>
+  <div class="tech-item" title="Angular"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><div>Angular</div></div>
+  <div class="tech-item" title="Android"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /><div>Android</div></div>
+  <div class="tech-item" title="Git"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><div>Git</div></div>
+</div>
+
 
 ---
 
@@ -78,22 +109,6 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 [![Ashith's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spideyashith&theme=tokyo-night)](https://github.com/spideyashith)
 
 ---
-<h2 align="left">🗺️ My Developer Roadmap</h2>
-
-<div align="left">
-
-✔️ <b>2022</b> – Mastered Java basics and Android fundamentals<br>
-✔️ <b>2023</b> – Built multiple XML-based Android apps<br>
-✔️ <b>2024</b> – Firebase integration & GitHub projects<br>
-✔️ <b>2024</b> – Learned HTML, CSS, JavaScript for web dev<br>
-🔄 <b>2025</b> – Exploring Jetpack Compose & Kotlin<br>
-🔄 <b>2025</b> – Diving into LLMs (LangChain, HuggingFace)<br>
-🔄 <b>2025</b> – Building GAN-based creative tools<br>
-🔜 <b>2025</b> – Learning Web3 & Solidity basics<br>
-🔜 <b>2025</b> – Contributing to open-source LLM tools<br>
-🚀 <b>Ongoing</b> – Turning cool ideas into helpful apps 💡<br>
-
-</div>
 
 
 
