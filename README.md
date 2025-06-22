@@ -46,11 +46,12 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 
 ---
 
-## 📊 My Developer Stats
+## 🧑‍💻 Developer Statistics Terminal
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCB&center=true&vCenter=true&width=435&lines=🔧+Developer+Statistics+Terminal" alt="Typing SVG" />
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Terminal-Mode-00FFCB?style=for-the-badge&logo=gnubash&logoColor=black" />
+</p>
+
 
 <div align="center" style="background: radial-gradient(#0f0f0f, #000000); border: 1px solid #00ffcb; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px #00ffcb; margin: 10px 0;">
 
