@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashith Fernandes</h1>
 <h3 align="center">🚀 Android | Firebase | AI | Web | LLM Enthusiast</h3>
-
+---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Passionate+Android+Developer;Firebase+%7C+LLMs+%7C+Java+%7C+GAN+Lover;Building+fun+and+helpful+apps+every+day&background=0D1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Passionate+Android+Developer;Firebase+%7C+LLMs+%7C+Java+%7C+GAN+Lover;Building+fun+and+helpful+apps+every+day&background=00000000" />
 </p>
+
 
 
 ---
