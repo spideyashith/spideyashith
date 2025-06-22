@@ -1,10 +1,13 @@
-<div align="center" style="background: linear-gradient(135deg, #0f0f0f, #1a1a2e); padding: 30px; border-radius: 12px; box-shadow: 0 0 20px #00F7FF; margin-bottom: 20px;">
+<!-- 🌟 Banner Header with Neon Glow -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=150&section=header&text=Hi%20👋,%20I'm%20Ashith%20Fernandes&fontSize=30&fontColor=ffffff&fontAlignY=35&desc=Android%20%7C%20Firebase%20%7C%20LLMs%20%7C%20Web%20%7C%20AI&descSize=20&descAlign=50&descAlignY=60" />
+</p>
 
-  <h1 style="color: #00F7FF;">Hi 👋, I'm Ashith Fernandes</h1>
-  <h3 style="color: #FFFFFF;">🚀 Android | Firebase | AI | Web | LLM Enthusiast</h3>
+<!-- ✍️ Typing Animation with Dark Background -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Passionate+Android+Developer;Firebase+%7C+LLMs+%7C+Java+%7C+GAN+Lover;Building+fun+and+helpful+apps+every+day&background=0D1117" />
+</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Passionate+Android+Developer;Firebase+%7C+LLMs+%7C+Java+%7C+GAN+Lover;Building+fun+and+helpful+apps+every+day&background=00000000" />
-</div>
 
 ---
 
