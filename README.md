@@ -28,25 +28,29 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 - ✨ Fun Fact: I turn ☕ into code and ideas into apps 💡📱
 
 ---
-<h2>🛠 My Tech Stack</h2>
-<div class="tech-grid">
-  <div class="tech-item" title="Java"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><div>Java</div></div>
-  <div class="tech-item" title="Kotlin"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /><div>Kotlin</div></div>
-  <div class="tech-item" title="Python"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><div>Python</div></div>
-  <div class="tech-item" title="Dart"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /><div>Dart</div></div>
-  <div class="tech-item" title="C#"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><div>C#</div></div>
-  <div class="tech-item" title="JavaScript"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><div>JavaScript</div></div>
-  <div class="tech-item" title="HTML5"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><div>HTML</div></div>
-  <div class="tech-item" title="CSS3"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><div>CSS</div></div>
-  <div class="tech-item" title="SQL"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><div>SQL</div></div>
-  <div class="tech-item" title="R Programming"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><div>R</div></div>
-  <div class="tech-item" title="Firebase"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /><div>Firebase</div></div>
-  <div class="tech-item" title="Flutter"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /><div>Flutter</div></div>
-  <div class="tech-item" title="Node.js"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><div>Node.js</div></div>
-  <div class="tech-item" title="Angular"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><div>Angular</div></div>
-  <div class="tech-item" title="Android"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /><div>Android</div></div>
-  <div class="tech-item" title="Git"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><div>Git</div></div>
-</div>
+## 🛠 My Tech Stack
+
+### 👨‍💻 Languages & Frameworks  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=dart&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=r&logoColor=white)  
+
+### 🔧 Tools & Platforms  
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat-square&logo=android&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=flutter&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-ffca28.svg?style=flat-square&logo=firebase&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat-square&logo=angular&logoColor=white)  
+
+### 📂 Version Control  
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
 
 
 ---
