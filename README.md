@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Android | Firebase | AI | Web | LLM Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000,FFA500,FFFF00,00FF00,0000FF,4B0082,EE82EE&center=true&width=600&lines=Passionate+Android+Developer;Firebase+%7C+LLMs+%7C+Java+%7C+GAN+Lover;Building+fun+and+helpful+apps+every+day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Passionate+Android+Developer;Firebase+%7C+LLMs+%7C+Java+%7C+GAN+Lover;Building+fun+and+helpful+apps+every+day&background=0D1117" />
 </p>
+
 
 ---
 
