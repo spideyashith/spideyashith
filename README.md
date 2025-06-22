@@ -29,28 +29,6 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 
 ---
 <h2>🛠 My Tech Stack</h2>
-
-<style>
-  .tech-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 20px;
-    margin-top: 20px;
-  }
-  .tech-item {
-    text-align: center;
-    transition: transform 0.3s ease;
-  }
-  .tech-item:hover {
-    transform: scale(1.1);
-  }
-  .tech-icon {
-    width: 40px;
-    height: 40px;
-    margin-bottom: 5px;
-  }
-</style>
-
 <div class="tech-grid">
   <div class="tech-item" title="Java"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><div>Java</div></div>
   <div class="tech-item" title="Kotlin"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /><div>Kotlin</div></div>
