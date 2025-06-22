@@ -68,17 +68,22 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 [![Ashith's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spideyashith&theme=github-compact)](https://github.com/spideyashith)
 
 ---
+
+
 ---
 
 ## 💬 Final Thought
 
-> “Code is the closest thing we have to a superpower. Every line you write has the potential to change lives.”  
-> Keep learning, keep building — and always stay curious. 🚀
+> “Behind every great app is a thousand moments of curiosity, creativity, and caffeine.” ☕✨  
+> Thanks for scrolling this far — you didn’t just visit my profile, you explored my journey.  
+> Keep building. Keep believing. The best code is always yet to be written. 🚀
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer&text=🚀%20Thank%20You%20for%20Visiting!%20👋&fontSize=24&fontAlign=middle&animation=twinkling" />
+  <b>Made with ❤️, Java, Firebase, and a pinch of imagination.</b><br>
+  <i>Thank you for visiting — let’s connect, collaborate, and create something amazing!</i><br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer&text=🚀%20See%20You%20Soon!%20👋&fontSize=24&fontAlign=middle&animation=twinkling" />
 </p>
 
 
