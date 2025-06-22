@@ -58,7 +58,10 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 
 ## 🚀 Featured Projects
 
-- 📱 [**Study Buddy App**](https://github.com/spideyashith/Study-Buddy-App) — Firebase-powered Android app for students
+<p align="center">
+  <img src="https://github.com/spideyashith/Study-Buddy-App/assets/your-image-path/study-buddy-banner.png" alt="Study Buddy App Banner" width="100%" />
+</p>
+
 
 ---
 
