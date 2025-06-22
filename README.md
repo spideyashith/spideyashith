@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=150&section=header&text=Hi%20👋,%20I'm%20Ashith%20Fernandes&fontSize=30&fontColor=ffffff&fontAlignY=35&desc=Android%20%7C%20Firebase%20%7C%20LLMs%20%7C%20Web%20%7C%20AI&descSize=20&descAlign=50&descAlignY=60" />
 </p>
-
-<!-- ✍️ Typing Animation with Dark Background -->
+<!-- ✍️ Typing Animation – Visible in Light & Dark Mode -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Passionate+Android+Developer;Firebase+%7C+LLMs+%7C+Java+%7C+GAN+Lover;Building+fun+and+helpful+apps+every+day&background=0D1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=70&lines=Passionate+Android+Developer;Firebase+%7C+LLMs+%7C+Java+%7C+GAN+Lover;Building+fun+and+helpful+apps+every+day" />
 </p>
+
 
 
 ---
