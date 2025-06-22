@@ -46,12 +46,19 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Developer Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spideyashith&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spideyashith&theme=tokyonight" height="180px"/>
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCB&center=true&vCenter=true&width=435&lines=🔧+Developer+Statistics+Terminal" alt="Typing SVG" />
+</h2>
+
+<div align="center" style="background: radial-gradient(#0f0f0f, #000000); border: 1px solid #00ffcb; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px #00ffcb; margin: 10px 0;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=spideyashith&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFCB&text_color=ffffff&icon_color=00FFCB&hide_title=false&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=spideyashith&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00FFCB&fire=FF4C60&currStreakLabel=00FFCB" height="180px" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spideyashith&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFCB&text_color=ffffff&bg_color=0D1117" height="180px"/>
+</div>
 
 ---
 
