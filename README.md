@@ -57,10 +57,9 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 ---
 
 ### 🚀 Featured Projects
+- 📱 [**Study Buddy App**](https://github.com/spideyashith/Study-Buddy-App)  
+  🎯 *A smart companion for students — connect, collaborate, share resources, schedule sessions, and track goals with Firebase-powered real-time features and a clean UI.*
 
-📱 **Study Buddy App**  
-[🔗 GitHub Repository](https://github.com/spideyashith/Study-Buddy-App)  
-🎯 *A smart companion for students — connect, collaborate, share resources, schedule sessions, and track goals with Firebase-backed real-time features and a clean UI.*
 
 
 ---
