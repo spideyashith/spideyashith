@@ -31,26 +31,27 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 ## 🛠 My Tech Stack
 
 ### 👨‍💻 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=dart&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=r&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=r&logoColor=white)
 
 ### 🔧 Tools & Platforms  
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat-square&logo=android&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=flutter&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28.svg?style=flat-square&logo=firebase&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat-square&logo=angular&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 
 ### 📂 Version Control  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
+
 
 
 ---
