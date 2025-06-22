@@ -78,6 +78,23 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 [![Ashith's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spideyashith&theme=tokyo-night)](https://github.com/spideyashith)
 
 ---
+<h2 align="left">🗺️ My Developer Roadmap</h2>
+
+<div align="left">
+
+✔️ <b>2022</b> – Mastered Java basics and Android fundamentals<br>
+✔️ <b>2023</b> – Built multiple XML-based Android apps<br>
+✔️ <b>2024</b> – Firebase integration & GitHub projects<br>
+✔️ <b>2024</b> – Learned HTML, CSS, JavaScript for web dev<br>
+🔄 <b>2025</b> – Exploring Jetpack Compose & Kotlin<br>
+🔄 <b>2025</b> – Diving into LLMs (LangChain, HuggingFace)<br>
+🔄 <b>2025</b> – Building GAN-based creative tools<br>
+🔜 <b>2025</b> – Learning Web3 & Solidity basics<br>
+🔜 <b>2025</b> – Contributing to open-source LLM tools<br>
+🚀 <b>Ongoing</b> – Turning cool ideas into helpful apps 💡<br>
+
+</div>
+
 
 
 ---
