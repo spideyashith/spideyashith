@@ -12,14 +12,28 @@
 
 
 ---
- 
-- 🌱 Learning: `LLMs`, `GANs`, and `Advanced Android Jetpack`  
-- 💬 Ask me about: Android Studio, Firebase, Java, Kotlin  
-- 📫 Reach me at: **ashithfernandes319@gmail.com**  
-- 🎯 Portfolio: [Study Buddy Web Landing Page](https://spideyashith.github.io/study-buddy-app-web/)  
-- ⚡ Fun fact: I love turning ideas into functional apps 💡
+ ## 🙋‍♂️ About Me
+
+Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 🇮🇳 India.
+
+- 🎓 **Education:**
+  - 🏫 BCA @ *Padua College of Commerce and Management*
+  - 🎓 Pursuing M.Sc. Software Technology @ *St Aloysius (Deemed to be University)*
+
+- 📫 **Email:** [![Gmail Badge](https://img.shields.io/badge/Gmail-ashithfernandes319@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:ashithfernandes319@gmail.com)
+
+- 💼 **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/-Ashith%20Fernandes-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashith-fernandes-22a0252b3/)
+
+- 📱 **Featured Project:** [![Study Buddy App](https://img.shields.io/badge/GitHub-Study%20Buddy%20App-181717?style=flat&logo=github)](https://github.com/spideyashith/AndriodstudybuddyApp/tree/master)
+
+- 🌱 Currently exploring: `LLMs`, `GANs`, `Jetpack Compose`, `Web3 Basics`
+
+- ✨ Fun Fact: I turn ☕ into code and ideas into apps 💡📱
 
 ---
+
+
+
 
 ### 💻 Tech Stack
 
