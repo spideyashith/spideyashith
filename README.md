@@ -84,7 +84,7 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spideyashith" />
+  <img src="https://github-profile-trophy.vercel.app/?username=spideyashith&theme=monokai&margin-w=15&no-frame=true" alt="GitHub Trophies">
 </p>
 
 ---
