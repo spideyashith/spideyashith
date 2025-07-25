@@ -91,8 +91,7 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 
 ## 🌱 Contribution Activity Graph
 
-[![Ashith's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spideyashith&theme=tokyo-night)](https://github.com/spideyashith)
-
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=spideyashith&theme=react-dark&area=true&hide_border=true&radius=15" alt="Ashith's GitHub Activity Graph" /> </p>
 ---
 
 
