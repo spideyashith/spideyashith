@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashith Fernandes</h1>
 <h3 align="center">🚀 Android | Firebase | AI | Web | LLM Enthusiast</h3>
+
 <!-- ✍️ Typing Animation – Visible in Light & Dark Mode -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=70&lines=Passionate+Android+Developer;Firebase+%7C+LLMs+%7C+Java+%7C+GAN+Lover;Building+fun+and+helpful+apps+every+day" />
 </p>
-
-
 
 ---
 
@@ -28,6 +27,7 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 - ✨ Fun Fact: I turn ☕ into code and ideas into apps 💡📱
 
 ---
+
 ## 🛠 My Tech Stack
 
 ### 👨‍💻 Languages & Frameworks  
@@ -52,66 +52,60 @@ Hi, I'm **Ashith Fernandes** – a passionate 💻 Android & Web Developer from 
 ### 📂 Version Control  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
 
-
-
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
+
 - 📱 [**Study Buddy App**](https://github.com/spideyashith/Study-Buddy-App)  
   🎯 *A smart companion for students — connect, collaborate, share resources, schedule sessions, and track goals with Firebase-powered real-time features and a clean UI.*
 
-
-
 ---
 
-## 🧑‍💻 Developer Statistics Terminal
+## 🧑‍💻 Developer Statistics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Terminal-Mode-00FFCB?style=for-the-badge&logo=gnubash&logoColor=black" />
-</p>
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spideyashith&bg_color=0d1117&color=fff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
 
-<div align="center" style="background: radial-gradient(#0f0f0f, #000000); border: 1px solid #00ffcb; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px #00ffcb; margin: 10px 0;">
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=spideyashith&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFCB&text_color=ffffff&icon_color=00FFCB&hide_title=false&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=spideyashith&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00FFCB&fire=FF4C60&currStreakLabel=00FFCB" height="180px" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spideyashith&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFCB&text_color=ffffff&bg_color=0D1117" height="180px"/>
+<div align="center">
+
+<a href="https://github.com/spideyashith">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=spideyashith&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spideyashith&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spideyashith&theme=monokai&margin-w=15&no-frame=true" alt="GitHub Trophies">
-</p>
+<div align="center">
 
----
+![GitHub Followers](https://img.shields.io/github/followers/spideyashith?style=for-the-badge&logo=github&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/spideyashith?style=for-the-badge&logo=github&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=spideyashith&style=for-the-badge&color=brightgreen)
 
-## 🌱 Contribution Activity Graph
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=spideyashith&theme=react-dark&area=true&hide_border=true&radius=15" alt="Ashith's GitHub Activity Graph" /> </p>
----
-
-
+### 🎯 2026 Milestones
+✅ Building Android apps with Jetpack Compose  
+✅ Exploring LLMs & GANs for innovative features  
+✅ Contributing to open-source Firebase projects  
+✅ Mastering AI integration in mobile applications  
 
 ---
 
 ## 💬 Final Thought
 
-> “Behind every great app is a thousand moments of curiosity, creativity, and caffeine.” ☕✨  
-> Thanks for scrolling this far — you didn’t just visit my profile, you explored my journey.  
+> "Behind every great app is a thousand moments of curiosity, creativity, and caffeine." ☕✨  
+> Thanks for scrolling this far — you didn't just visit my profile, you explored my journey.  
 > Keep building. Keep believing. The best code is always yet to be written. 🚀
 
 ---
 
 <p align="center">
   <b>Made with ❤️, Java, Firebase, and a pinch of imagination.</b><br>
-  <i>Thank you for visiting — let’s connect, collaborate, and create something amazing!</i><br><br>
+  <i>Thank you for visiting — let's connect, collaborate, and create something amazing!</i><br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer&text=🚀%20See%20You%20Soon!%20👋&fontSize=24&fontAlign=middle&animation=twinkling" />
 </p>
-
-
----
-
