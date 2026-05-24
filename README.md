@@ -201,7 +201,7 @@ Node.js/Express backend with JWT auth for secure user sessions.
 If you have a project in mind, a role to fill, or want to geek out about on-device AI or MERN architecture — I reply fast.
 
 [![Email](https://img.shields.io/badge/ashithfernandes25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashithfernandes25@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashithfernandes)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashith-fernandes-22a0252b3/)
 
 ---
 
